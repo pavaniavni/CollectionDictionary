@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\obj\Debug\net6.0\CollectionDictionary.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\obj\Debug\net6.0\CollectionDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\obj\Debug\net6.0\CollectionDictionary.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\obj\Debug\net6.0\CollectionDictionary.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\obj\Debug\net6.0\CollectionDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\bin\Debug\net6.0\CollectionDictionary.exe
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\bin\Debug\net6.0\CollectionDictionary.deps.json
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\bin\Debug\net6.0\CollectionDictionary.runtimeconfig.json
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\bin\Debug\net6.0\CollectionDictionary.dll
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\bin\Debug\net6.0\ref\CollectionDictionary.dll
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\bin\Debug\net6.0\CollectionDictionary.pdb
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\obj\Debug\net6.0\CollectionDictionary.dll
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\obj\Debug\net6.0\ref\CollectionDictionary.dll
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\obj\Debug\net6.0\CollectionDictionary.pdb
+C:\Users\Pavani\source\repos\CollectionDictionary\CollectionDictionary\obj\Debug\net6.0\CollectionDictionary.genruntimeconfig.cache
